@@ -1,5 +1,3 @@
----
-
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -10,8 +8,6 @@
 - [4. Policy-as-Code (OPA / Sentinel)](#4-policy-as-code-opa--sentinel)
 - [Full Pipeline Integration](#full-pipeline-integration)
 - [Quick Reference](#quick-reference)
-
----
 
 | Layer | Tool Examples | When It Runs | What It Catches |
 |---|---|---|---|
